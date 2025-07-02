@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: medical-vlm-system-app
+    image: vibemax10/medical-vlm-system-app:latest
+    env: docker
+    port: 5000
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: FLASK_ENV
+        value: production
