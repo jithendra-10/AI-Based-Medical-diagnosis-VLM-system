@@ -98,7 +98,7 @@ An **AI-powered medical image analysis platform** that uses **Vision-Language Mo
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/jithendra-10/AI-Medical-Diagnosis-VLM-System.git
+git clone [https://github.com/jithendra-10/AI-Medical-Diagnosis-VLM-System.git](https://github.com/jithendra-10/AI-Based-Medical-diagnosis-VLM-system.git)
 cd AI-Medical-Diagnosis-VLM-System
 2️⃣ Backend Setup
 bash
